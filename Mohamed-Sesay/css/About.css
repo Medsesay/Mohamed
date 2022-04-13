@@ -1,0 +1,11 @@
+body {
+    background-color: none;
+}
+
+img {
+    max-width: fit-content;
+    max-height: fit-content;
+}
+p{
+    color: white;
+}
